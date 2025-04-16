@@ -1,0 +1,15 @@
+01-Pegue uma escada
+
+02-Posicione em baixo da lâmpada
+
+03-Desligue a luz
+
+04-Suba na escada
+
+05-Retire a lâmpada queimada
+
+06-Substitua pela nova
+
+07-desça da escada
+
+08-Verique se está tudo certo
