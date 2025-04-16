@@ -1,0 +1,11 @@
+01-Pegue uma panela 
+02-Coleque agua na panela
+03-Coloque pra ferver
+04-Pegue a garrafa de cafe  
+05-Pegue o coador e coloque em cima da garrafa de cafe 
+06-Coloque pó de cafe no coador
+07-Pegue a agua que ferveu na panela 
+08-Coloque calmamente no coador de pouco em pouco
+09-Depois de todo o cafe ter sido coado 
+10-Jogue o papel fora 
+11-Feche a garrafa para manter seu cafe quente 
