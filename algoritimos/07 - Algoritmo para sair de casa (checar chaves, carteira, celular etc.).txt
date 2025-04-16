@@ -1,0 +1,10 @@
+01-Pegar chaves
+02-Verifique se não esqueceu nada
+03-Abra a porta
+04-Tranque a porta
+05-Chame o elevador
+06-Entre no elevador
+07-Aperte o térreo
+08-Saia do elevador
+09-Vá até o carro
+10-Saia do predio

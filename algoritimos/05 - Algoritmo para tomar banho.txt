@@ -1,0 +1,17 @@
+01-Pegue a toalha
+02-Entre no banheiro
+03-Tire a roupa 
+04-abra o box
+05-Entre no box
+06-Ligue o chuveiro
+07-Lave o cabelo
+08-enxague o cabelo
+09-Pegue o sabonete
+10-Lave o corpo
+11-enxague o corpo
+12-Lave o rosto
+13-Enxague o rosto
+14-Feche o chuveiro
+15-Seque o corpo 
+16-Coloque a roupa 
+17-Saia do banheiro

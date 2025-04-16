@@ -1,0 +1,11 @@
+01-Pegue o pão
+02-Pegue todos os ingredientes que serão usados
+03-Abra o pão
+04-Passe maionese no pão 
+05-Coloque queijo
+06-Coloque mortadela
+07-Coloque presunto
+08-Feche o pão
+09-Coloque na chapa
+10-Tire da chapa
+11-Coma o pão

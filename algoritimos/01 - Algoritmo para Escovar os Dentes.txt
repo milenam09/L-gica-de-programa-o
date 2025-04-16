@@ -1,0 +1,10 @@
+01-Acordar
+02-Levantar da cama 
+03-Ir ao banheiro 
+04-Pegar escova de dente
+05-Abrir a pasta de dente
+06-Passar pasta na escova 
+07-Abrir a torneira
+08-Escovar os dentes
+09-Enxaguar a boca
+10-Fechar torneira

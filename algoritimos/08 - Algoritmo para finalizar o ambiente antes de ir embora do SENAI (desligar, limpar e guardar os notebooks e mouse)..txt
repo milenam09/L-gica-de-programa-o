@@ -1,0 +1,13 @@
+01-Feche as abas do computador
+02-Desligue o computador
+03-Pegue o pano com álcool
+04-Passe no computador e mouse
+05-Guarde o pano
+06-Feche o computador
+07-Retire os cabos 
+08-Espere ser chamado
+09-Guarde o mouse
+10-Guarde o computador
+11-Arrume os cabos na mesa
+12-Espere os professores nos liberar
+13-Saia da sala
